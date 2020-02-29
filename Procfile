@@ -1,1 +1,1 @@
-web: gunicorn innova.wsgi
+web: gunicorn innova.wsgi --log-file -
